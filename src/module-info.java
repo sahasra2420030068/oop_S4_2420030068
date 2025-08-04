@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Project3WrapperClass {
-}
